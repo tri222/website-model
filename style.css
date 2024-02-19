@@ -1,0 +1,485 @@
+.background{
+    display: flex;
+    
+       
+     
+   
+}
+body{
+    max-width: 100vw;
+    overflow-x: hidden;
+    
+    
+}
+
+.b1 {
+    height: 500px;
+    width: 700px;
+   
+}
+
+
+.b2 {
+    height: 500px;
+    width: 800px;
+    
+    background-image: url(brandon-griggs-wR11KBaB86U-unsplash.png);
+    background-size: contain;
+   
+    
+        filter: sepia(200%) hue-rotate(195deg) saturate(550%);
+}
+
+.c1{
+    
+    height: 150px;
+    width: 300px;
+    margin-top: 100px;
+    margin-left: 90px;
+    background-image: url(Modern\ Apartment\ \ House\ .png);
+    background-size:250px;
+    background-repeat: no-repeat;
+}
+.c2{
+   
+    height: 50px;
+    width: 450px;
+    margin-top: 30px;
+    margin-left: 90px;
+
+}
+.c3{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #0f2480;
+    border-radius: 50px;
+    margin-left: 90px;
+    width: 110px;
+    margin-top: 20px;
+    padding-left: 7px;
+    color: #0f2480;
+}
+.bg2{
+    background-color: aliceblue;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 600px;
+    
+   
+}
+.b3{
+    height: 50px;
+    width: 1100px;
+    
+    margin-left: 80px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    
+    top: -25px;
+    box-shadow: 0px 0px 10px rgb(192, 193, 192);
+    padding-left: 20px;
+                
+    
+    
+       
+    }
+    .b3 >div{
+        
+        height: 25px;
+        
+        
+        margin-top: 12px;
+        
+        margin-right: 100px;
+        padding-right: 150px;
+    }
+    .b3>div{
+        border: 0.66px solid #0f2480;
+        opacity: 0.620;
+        text-align: center;
+font-size: 17px;
+line-height: 28px;
+color: #0f2480;
+font-weight: 400;
+font-family: "Poppins";
+    }
+
+    .b3> .search{
+        background-color: orangered;
+        color: aliceblue;
+        padding-left: 50px;
+        width: 10px;
+        border: 0.66px solid #ffffff;
+        border-radius: 50px;
+        
+        
+    }
+    .second{
+        width: 100%;
+        height: 400px;
+        display: flex;
+        flex-direction: row;
+    }
+    .secondpic{
+        
+        height: 250px;
+        width: 400px;
+        background-image: url(naomi-hebert-MP0bgaS_d1c-unsplash.png);
+        background-size: contain;
+        margin-top: 100px;
+        margin-left: 100px;
+    }
+    .secondtext{
+       
+        height: 200px;
+        width: 400px;
+        margin-left: 100px;
+        margin-top: 150px;
+        
+line-height: 28px;
+color: #1a1a1b;
+font-weight: 500;
+
+    }
+   #read{
+    padding-bottom: 3px;
+    padding-left: 10px;
+    margin-left: 100px;
+    color: #0f2480;
+    height: 20px;
+    width: 100px;
+    border:0.7px solid  #0f2480;
+       border-radius: 50px;
+    }
+
+    #reci {
+        background-color: rgb(255, 255, 255);
+        background-repeat: repeat;
+        background-size: cover;
+      }
+    
+      #reci{
+        
+        width: 100%;
+        display: flex;
+        height: 600px;
+        flex-wrap: wrap;
+      
+        margin: 10px;
+        flex-direction: row;
+    }
+    
+    #reci>div {
+      background-color: #ffffff;
+      width: 400px;
+      height: 270px;
+     
+      margin: 10px;
+      font-size: 10px;
+    }
+    
+    #reci >div>img{
+      width: 350px ;
+      height: 200px;
+    }
+    #reci> div>h1{
+      margin: 10px;
+    }
+    .head1{
+        width: 100%;
+        height: 150px;
+        padding: 40px 10px 0px 0px;
+        text-align: center;
+       
+    }
+    
+#read2{
+    padding-bottom: 3px;
+    padding-left: 15px;
+    margin-left: 100px;
+    color: #0f2480;
+    height: 20px;
+    width: 100px;
+    border:0.7px solid  #0f2480;
+       border-radius: 50px;
+       margin-left: 550px;
+       margin-top: 30px;
+    }
+
+.third{
+    margin-top: 50px;
+    width: 100%;
+    height: 600px;
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.head3{
+    width: 100%;
+    height: 100px;
+    
+    
+}
+.thirdivs{
+    display: flex;
+    flex-direction: row;
+     width: 100%;
+     height: 500px;
+     margin-top: 50px;
+     gap: 30px;
+     
+}
+.thirdivs>div{
+    height: 500px;
+
+    width: 300px;
+   
+}
+.div1{
+    margin-left: 150px;
+    display: flex;
+    flex-direction: column;
+}
+#div1-1{
+    width: ;
+    height: 90px;
+    
+    background-color: #0f2480;
+    color: aliceblue;
+    padding-left: 120px;
+
+}
+#div1-2{
+    background-color: #3553d1;
+    height: 310px;
+    padding-left: 90px;
+    color: aliceblue;
+
+}
+.div2{
+    
+    display: flex;
+    flex-direction: column;
+}
+
+#div2-1{
+    width: ;
+    height: 90px;
+   
+    background-color: #0f2480;
+    color: aliceblue;
+    padding-left: 120px;
+
+}
+#div2-2{
+    background-color: #f9bb16;
+    height: 310px;
+    padding-left: 90px;
+    color: aliceblue;
+
+}
+
+.div3{
+    
+    display: flex;
+    flex-direction: column;
+}
+#div3-1{
+    width: ;
+    height: 90px;
+    
+    background-color: #0f2480;
+    color: aliceblue;
+    padding-left: 120px;
+
+}
+#div3-2{
+    background-color: #3553d1;
+    height: 310px;
+    padding-left: 90px;
+    color: aliceblue;
+
+}
+
+.head3{
+    padding-left: 500px;
+
+}
+
+#sid{
+   font-weight: 700;
+}
+.bt1 ,.bt2, .bt3{
+    margin-top: 40px;
+    width: 100px;
+    height: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    padding-left: 30px;
+    background-color: #3553d1;
+}
+.bt2{
+    background-color: #f9bb16;
+}
+
+.fourth{
+    width: 100%;
+    height: 500px;
+   
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.text4{
+    height: 200px;
+    width: 500px;
+   
+    padding-left: 30px;
+    margin-top: 100px;
+    margin-left: 70px;
+
+}
+.img4-1{
+    background-image: url(d-1.png);
+    height: 280px;
+    width: 200px;
+    background-size: contain;
+    margin-top: 80px;
+    margin-left: 70px;
+}
+
+.img4-2{
+    background-image: url(d-2.png);
+    height: 200px;
+    width: 300px;
+    background-size: contain;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+.btt{
+    width: 100px;
+    height: 25px;
+    color: #3750c1;
+    border: 2px solid rgb(47, 47, 231);
+    border-radius: 50px;
+    padding-top: 5px;
+    padding-left: 5px;
+    margin-left: 150px;
+}
+
+
+.fifth{
+    width: 100%;
+    height: 350px;
+    background-color: #0f2480;
+    color: aliceblue;
+
+}
+
+.div5{
+    height: 200px;
+    width: 100%;
+    
+    display: flex;
+    flex-direction: row;
+}
+
+.div5  > div{
+    height: 100%;
+    width: 200px;
+    margin-left: 80px;
+
+    
+}
+
+.bttt{
+    width: 120px;
+    height: 20px;
+    background-color: aliceblue;
+    border: 2px solid aliceblue;
+    border-radius: 50px;
+    color: black;
+    font-weight: bolder;
+    padding-left: 20px;
+    margin-top: 40px;
+    margin-left: 550px;
+}
+
+
+.seventh{
+    width: 100%;
+    height: 650px;
+    background-color: #0f2480;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.pt1{
+    width: 100%;
+    height: 60%;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.pt2{
+    width: 100%;
+    height: 40%;
+    
+}
+
+.img7{
+width: 42%;
+height: 100%;
+background-image: url(London\ -\ Google\ Maps.png);
+background-size: contain;
+margin-right: 40px;
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+
+}
+.input>input{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 400px;
+    height: 30px;
+}
+
+.pt2{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.pt2>div{
+    height: 100%;
+    width: 15%;
+    
+    margin-left: 50px;
+    color: aliceblue;
+    line-height: 28px;
+}
+.icon>i{
+    margin-left: 15px ;
+    margin-top: 40px;
+   
+}
+.div6 {
+    height: 200px;
+    border: 1px solid darkblue;
+    width: 80%;
+    margin-left: 100px;
+    flex-direction: row;
+    display: flex;
+}
